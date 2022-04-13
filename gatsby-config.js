@@ -9,6 +9,9 @@ module.exports = {
       "name": "images",
       "path": "./src/images/"
     },
+    fonts: [
+      `Syne\:400,500`,
+    ],
     __key: "images"
   }]
 };

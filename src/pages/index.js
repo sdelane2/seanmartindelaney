@@ -1,10 +1,13 @@
-import * as React from 'react'
+import * as React from 'react';
+import Header from '../Components/header.js';
+import './index.css'
+import "@fontsource/syne";
 
 const IndexPage = () => {
   return (
     <main>
       <title>Sean Delaney</title>
-      <h1>Sean Delaney </h1>
+      <Header />
     </main>
   )
 }
