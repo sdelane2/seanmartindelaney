@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[678],{3495:function(e,n,t){t.r(n),t.d(n,{default:function(){return a}});var l=t(7294),r=function(){return l.createElement("div",{className:"header-wrapper"},l.createElement("h1",null,"Sean Delaney is a software engineer living in Brooklyn, New York."))},a=function(){return l.createElement("main",null,l.createElement("title",null,"Sean Delaney"),l.createElement(r,null))}}}]);
-//# sourceMappingURL=component---src-pages-index-js-d0e11e31828a69ab3678.js.map
